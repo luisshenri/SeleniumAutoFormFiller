@@ -9,3 +9,9 @@ Este projeto é uma automação desenvolvida em Python utilizando a biblioteca S
 - Gerenciamento de Descrições: Utiliza um arquivo texto para gerenciar e inserir diferentes descrições em cada execução, garantindo variedade e mantendo a eficiência.
 - Navegação Dinâmica: Interage com um site específico, realizando cliques e selecionando opções com base em XPaths, permitindo uma navegação fluida e intuitiva.
 - Controle de Fluxo: Implementa um sistema de controle para garantir que as informações corretas sejam usadas em cada execução, mantendo a integridade dos dados.
+
+## Tecnologias Usadas
+  - selenium
+  - Edge WebDriver
+  - ARQUIVO.txt e adicione as descrições que você deseja usar
+  - Bibliotecas: time, os
